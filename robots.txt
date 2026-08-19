@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-zgnd4a.date-me.pro/sitemap.xml
